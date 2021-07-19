@@ -1,0 +1,7 @@
+.text-justify {
+  text-align: justify;
+}
+
+.div-hover:hover {
+  background-color: lightgray;
+}
